@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="477b57b3-0f7d-4873-808f-07e6184ebff4" name="Changes" comment="Master commit 1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cisco/projectphase1/LockedMeApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cisco/projectphase1/Welcome/FileOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cisco/projectphase1/Welcome/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cisco/projectphase1/Welcome/WelcomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cisco/projectphase1/files/Directory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cisco/projectphase1/services/DirectoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cisco/projectphase1/services/ScreenService.java" afterDir="false" />
-    </list>
+    <list default="true" id="477b57b3-0f7d-4873-808f-07e6184ebff4" name="Changes" comment="Master commit 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
